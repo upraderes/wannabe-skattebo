@@ -1,0 +1,8 @@
+{
+    "name": "WannabeSkattebo.Editor",
+    "rootNamespace": "WannabeSkattebo.EditorTools",
+    "references": ["WannabeSkattebo.Runtime"],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": [],
+    "autoReferenced": false
+}

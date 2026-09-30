@@ -1,0 +1,10 @@
+{
+    "name": "WannabeSkattebo.Runtime",
+    "rootNamespace": "WannabeSkattebo",
+    "references": ["Unity.InputSystem"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "autoReferenced": true,
+    "noEngineReferences": false
+}
